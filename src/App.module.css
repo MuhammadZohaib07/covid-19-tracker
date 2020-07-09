@@ -1,8 +1,6 @@
 body {
     background-color: rgb(223, 213, 213);
-    background-image: url("https://image.shutterstock.com/z/stock-photo-world-corona-virus-attack-concept-world-earth-put-mask-to-fight-against-corona-virus-concept-of-1636507054.jpg");
-    display: flex;
-    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1584819762556-68601d7f3a86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
   }
   
   .container {
